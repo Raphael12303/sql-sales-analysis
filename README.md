@@ -38,3 +38,4 @@ The data is intentionally small and includes duplicates and NULL values to simul
 ## Notes
 This project is intended as a learning and practice exercise to reinforce SQL fundamentals and analytical queries.
 
+Related SQL project: https://github.com/yourusername/sql-sales-analysis
